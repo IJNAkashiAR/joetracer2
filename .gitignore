@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+/CMakeFiles/
+/build/
+/cmake_install.cmake
+/image.ppm
+/TAGS
+/Makefile
+/CUDATracer
+/CMakeCache.txt
